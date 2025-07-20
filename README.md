@@ -4,7 +4,7 @@ This repository contains my Codeforces upsolves — problems I revisited after c
 All solutions are in Python and follow a clean structure for easy reference.
 
 ---
-##:memo:Notes
+## :memo: Notes
 Each file contains:
 - Problem description (brief)
 - My thought process or learnings
