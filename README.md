@@ -36,7 +36,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-##:raising_hand:Author
+## :raising_hand: Author
 
 Sharat Doddihal | CSE Undergraduate | PES University
 
