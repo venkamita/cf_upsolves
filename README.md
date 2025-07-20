@@ -1,6 +1,6 @@
 # cf_upsolves
 
-This repository contains my Codeforces upsolves — problems I revisited after contests to improve my problem-solving skills.  
+This repository contains my Codeforces upsolves - problems I revisited after contests to improve my problem-solving skills.  
 All solutions are in Python and follow a clean structure for easy reference.
 
 ---
